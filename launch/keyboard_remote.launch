@@ -1,0 +1,5 @@
+<launch>
+  <node name="keyboard_remote" pkg="keyboard_remote" type="keyboard_remote.py" output="screen">
+  
+  </node>
+</launch>
